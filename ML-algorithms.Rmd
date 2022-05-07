@@ -1,5 +1,5 @@
 ---
-title: "DM Programmation"
+title: "Programmation des algorithmes des moindres carrés, RANSAC et K-means"
 author: "Ahmed OSMAN"
 date:
 output:
